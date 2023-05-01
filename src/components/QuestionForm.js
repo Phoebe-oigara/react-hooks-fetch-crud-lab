@@ -29,7 +29,7 @@ function QuestionForm(props) {
       body: JSON.stringify(formData),
     })
       .then((r) => r.json())
-      .then((formData) => console.log(formData));
+      .then((data) => (data.formData));
     }
   
   
