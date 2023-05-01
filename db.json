@@ -137,42 +137,6 @@
       "answer4": "gh",
       "correctIndex": 0,
       "id": 14
-    },
-    {
-      "prompt": "fvbn",
-      "answer1": "ghj",
-      "answer2": "gm",
-      "answer3": "fgn",
-      "answer4": "gh",
-      "correctIndex": 0,
-      "id": 15
-    },
-    {
-      "prompt": "fvbn",
-      "answer1": "ghj",
-      "answer2": "gm",
-      "answer3": "fgn",
-      "answer4": "gh",
-      "correctIndex": 0,
-      "id": 16
-    },
-    {
-      "prompt": "\"What special prop should always be included for lists of elements?\"",
-      "answer1": "id",
-      "answer2": "name",
-      "answer3": "key",
-      "answer4": "prop",
-      "correctIndex": 0,
-      "id": 17
-    },
-    {
-      "prompt": "\"What special prop should always be included for lists of elements?\"",
-      "answer1": "id",
-      "answer2": "name",
-      "answer3": "key",
-      "answer4": "prop",
-      "correctIndex": 0,
-      "id": 18
     }
   ]
 }
